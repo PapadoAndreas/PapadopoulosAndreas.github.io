@@ -1,6 +1,6 @@
 # CV - ΒΙΟΓΡΑΦΙΚΟ
 ---
-## ΠΑΠΑΔΟΠΟΥΛΟΣ ΑΝΔΡΕΑΣ    <img src="https://github.com/PapadoAndreas/PapadopoulosAndreas.github.io/blob/main/FotoAndreas.jpg?raw=true" width="200" />
+## ΠΑΠΑΔΟΠΟΥΛΟΣ ΑΝΔΡΕΑΣ  |  <img src="https://github.com/PapadoAndreas/PapadopoulosAndreas.github.io/blob/main/FotoAndreas.jpg?raw=true" width="50" />
 
 ### ABOUT ME
 Είμαι 56 χρονών, παντρεμένος και έχω 2 κόρες . Είναι φοιτήτριες , η μεγάλη είναι 23 χρονών στο 5ο έτος στην Ιατρική Αλεξανδρούπολης και η μικρότερη είναι 21 ετών και σπουδάζει στο 3ο έτος στην Φιλολογία του ΑΠΘ.
