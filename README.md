@@ -21,6 +21,6 @@
 Επαφή με φίλους για καφέ. 
 
 ## SOCIAL
-Email: mailto:andreaspap3@gmail.com">andreaspap3@gmail.com</a>
+Email: mailto:andreaspap3@gmail.com">andreaspap3@gmail.com</a>  |  std164336@ac.eap.gr
 LinkedIn: [linkedin.com/in/AndreasPapado](https://www.linkedin.com/feed/)
 GitHub: (https://github.com/PapadoAndreas/PapadopoulosAndreas.github.io)
