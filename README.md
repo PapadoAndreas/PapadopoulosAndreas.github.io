@@ -22,4 +22,4 @@
 ## SOCIAL
 Email: mailto:andreaspap3@gmail.com">andreaspap3@gmail.com</a>
 LinkedIn: [linkedin.com/in/AndreasPapado](https://www.linkedin.com/feed/)
-GitHub: <a href="https://github.com/AndreasPapado" target="_blank">github.com/AndreasPapado</a>
+GitHub: (https://github.com/PapadoAndreas/PapadopoulosAndreas.github.io)
