@@ -20,6 +20,6 @@
 Επαφή με φίλους για καφέ. 
 
 ## SOCIAL
-Email: <a href="mailto:andreaspap3@gmail.com">andreaspap3@gmail.com</a>
-LinkedIn: <a href="https://linkedin.com/in/AndreasPapado" target="_blank">linkedin.com/in/AndreasPapado</a>
+Email: mailto:andreaspap3@gmail.com">andreaspap3@gmail.com</a>
+LinkedIn: [linkedin.com/in/AndreasPapado](https://www.linkedin.com/feed/)
 GitHub: <a href="https://github.com/AndreasPapado" target="_blank">github.com/AndreasPapado</a>
